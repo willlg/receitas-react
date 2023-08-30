@@ -1,0 +1,17 @@
+{
+    "receitas": [
+      {
+        "id": 1,
+        "titulo": "Panqueca",
+        "ingredientes": ["Farinha", "Ovo", "Leite"],
+        "modoPreparo": "Misture tudo e frite."
+      },
+      {
+        "id": 2,
+        "titulo": "Macarrão ao alho",
+        "ingredientes": ["Macarrão", "Alho", "Azeite"],
+        "modoPreparo": "Cozinhe o macarrão e frite o alho no azeite."
+      }
+    ]
+  }
+  
